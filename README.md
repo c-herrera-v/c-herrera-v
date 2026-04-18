@@ -1,6 +1,6 @@
 # Hola, soy Christian Herrera 👋
 
-### Ingeniero Civil Industrial | Data Analytics & Optimización Operacional
+### Egresado de Ingenieria Civil Industrial de la universidad Diego Portales| Data Analytics & Optimización Operacional
 
 
 
