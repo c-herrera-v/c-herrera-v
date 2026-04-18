@@ -1,6 +1,6 @@
 # Hola, soy Christian Herrera 👋
 
-### Egresado de Ingenieria Civil Industrial de la universidad Diego Portales| Data Analytics & Optimización Operacional
+### Egresado de Ingeniería Civil Industrial de la Universidad Diego Portales | Data Analytics & Optimización Operacional
 
 
 
